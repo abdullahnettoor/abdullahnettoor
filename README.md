@@ -71,47 +71,48 @@ I'm Abdullah Nettoor from Kochi, India, a backend engineer specializing in Golan
 
 <div align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  
-  <!-- Frameworks -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+<img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=dart" height="36" alt="dart logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=html" height="36" alt="html logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=css" height="36" alt="css logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=python" height="36" alt="python logo" />
 
-  <!-- Databases -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo" />
+<!-- Frameworks -->
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=firebase" height="36" alt="firebase logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwind logo" />
 
-  <!-- DevOps -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  
-  <!-- CI/CD -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<!-- Databases -->
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=kafka" height="36" alt="kafka logo" />
+
+<!-- DevOps -->
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="kubernetes logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=aws" height="36" alt="aws logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=gcp" height="36" alt="gcp logo" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=azure" height="36" alt="azure logo" />
+
+<!-- CI/CD -->
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo" />
+
 </div>
 
 </div>
